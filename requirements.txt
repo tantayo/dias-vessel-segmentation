@@ -1,0 +1,10 @@
+# Install PyTorch separately for your OS/CUDA version: https://pytorch.org/get-started/locally/
+albumentations>=2.0,<3
+opencv-python>=4.8
+numpy>=1.24
+scipy>=1.11
+Pillow>=10
+matplotlib>=3.8
+scikit-image>=0.22
+tqdm>=4.66
+tensorboard>=2.14

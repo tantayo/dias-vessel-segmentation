@@ -1,0 +1,24 @@
+# Local datasets, trained weights and generated evaluation artifacts
+data/
+DIAS/
+checkpoints/
+output/
+outputs/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.npy
+
+# Local environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editor / machine-specific files
+.idea/
+.vscode/
+.DS_Store
